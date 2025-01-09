@@ -1,0 +1,12 @@
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\song.exe.config
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\song.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\song.pdb
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\obj\Debug\song.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\obj\Debug\song.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\obj\Debug\song.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\obj\Debug\song.pdb
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\DryIoc.dll
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\System.ValueTuple.dll
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\DryIoc.xml
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\bin\Debug\System.ValueTuple.xml
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai3\song\obj\Debug\song.csproj.Up2Date

@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\bin\Debug\pheptoan.exe.config
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\bin\Debug\pheptoan.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\bin\Debug\pheptoan.pdb
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\obj\Debug\pheptoan.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\obj\Debug\pheptoan.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\obj\Debug\pheptoan.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai4\pheptoan\obj\Debug\pheptoan.pdb

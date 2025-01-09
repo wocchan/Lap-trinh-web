@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\bin\Debug\xucxac.exe.config
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\bin\Debug\xucxac.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\bin\Debug\xucxac.pdb
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\obj\Debug\xucxac.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\obj\Debug\xucxac.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\obj\Debug\xucxac.exe
+D:\lap trinh web nang cao\baitaptuan2\bai tap OOP - buoi 1\bai1\xucxac\obj\Debug\xucxac.pdb
