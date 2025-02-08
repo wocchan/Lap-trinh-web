@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\obj\Debug\bai2.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\bin\Debug\bai2.exe.config
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\bin\Debug\bai2.exe
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\bin\Debug\bai2.pdb
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\obj\Debug\bai2.exe
+D:\lap trinh web nang cao\lap_C#_OOP1\lap_C#_OOP1\bai2\bai2\obj\Debug\bai2.pdb
