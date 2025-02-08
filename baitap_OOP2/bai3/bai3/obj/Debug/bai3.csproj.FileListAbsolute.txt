@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\obj\Debug\bai3.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\obj\Debug\bai3.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\bin\Debug\bai3.exe.config
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\bin\Debug\bai3.exe
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\bin\Debug\bai3.pdb
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\obj\Debug\bai3.exe
+D:\lap trinh web nang cao\baitap_OOP_so2\bai3\bai3\obj\Debug\bai3.pdb
