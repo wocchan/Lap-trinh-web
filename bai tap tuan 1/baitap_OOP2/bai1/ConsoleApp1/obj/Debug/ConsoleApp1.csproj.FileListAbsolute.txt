@@ -1,7 +1,0 @@
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-D:\lap trinh web nang cao\baitap_OOP_so2\bai1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
