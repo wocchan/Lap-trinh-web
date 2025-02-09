@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\bin\Debug\EX2.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\bin\Debug\EX2.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\bin\Debug\EX2.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\obj\Debug\EX2.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\obj\Debug\EX2.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\obj\Debug\EX2.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\boxing&unboxing\EX2\EX2\obj\Debug\EX2.pdb
