@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\bin\Debug\dynamictype.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\bin\Debug\dynamictype.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\bin\Debug\dynamictype.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\obj\Debug\dynamictype.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\obj\Debug\dynamictype.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\obj\Debug\dynamictype.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\dynamic type\dynamictype\obj\Debug\dynamictype.pdb

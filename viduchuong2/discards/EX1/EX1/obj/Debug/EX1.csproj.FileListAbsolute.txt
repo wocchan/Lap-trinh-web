@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\bin\Debug\EX1.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\bin\Debug\EX1.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\bin\Debug\EX1.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\obj\Debug\EX1.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\obj\Debug\EX1.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\obj\Debug\EX1.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\discards\EX1\EX1\obj\Debug\EX1.pdb

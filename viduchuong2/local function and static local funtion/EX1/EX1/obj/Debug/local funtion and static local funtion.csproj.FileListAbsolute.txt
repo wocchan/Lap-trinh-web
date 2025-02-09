@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\bin\Debug\local funtion and static local funtion.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\bin\Debug\local funtion and static local funtion.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\bin\Debug\local funtion and static local funtion.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\obj\Debug\local funtion and static local funtion.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\obj\Debug\local funtion and static local funtion.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\obj\Debug\local funtion and static local funtion.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\local function and static local funtion\EX1\local funtion and static local funtion\obj\Debug\local funtion and static local funtion.pdb
