@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\bin\Debug\pattern matching.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\bin\Debug\pattern matching.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\bin\Debug\pattern matching.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\obj\Debug\pattern matching.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\obj\Debug\pattern matching.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\obj\Debug\pattern matching.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\pattern matching\pattern matching\obj\Debug\pattern matching.pdb

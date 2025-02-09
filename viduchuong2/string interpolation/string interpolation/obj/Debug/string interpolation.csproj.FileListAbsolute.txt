@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\bin\Debug\string interpolation.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\bin\Debug\string interpolation.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\bin\Debug\string interpolation.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\obj\Debug\string interpolation.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\obj\Debug\string interpolation.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\obj\Debug\string interpolation.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\string interpolation\string interpolation\obj\Debug\string interpolation.pdb
