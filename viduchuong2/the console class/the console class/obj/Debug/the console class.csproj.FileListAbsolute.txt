@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\bin\Debug\the console class.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\bin\Debug\the console class.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\bin\Debug\the console class.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\obj\Debug\the console class.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\obj\Debug\the console class.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\obj\Debug\the console class.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\the console class\the console class\obj\Debug\the console class.pdb
