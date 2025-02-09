@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\bin\Debug\numeric literal syntax.exe.config
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\bin\Debug\numeric literal syntax.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\bin\Debug\numeric literal syntax.pdb
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\obj\Debug\numeric literal syntax.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\obj\Debug\numeric literal syntax.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\obj\Debug\numeric literal syntax.exe
+D:\lap trinh web nang cao\viduchuong2\viduchuong2\mumeric literal syntax\numeric literal syntax\obj\Debug\numeric literal syntax.pdb
