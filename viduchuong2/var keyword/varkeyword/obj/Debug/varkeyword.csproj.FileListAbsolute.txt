@@ -1,7 +1,0 @@
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\bin\Debug\varkeyword.exe.config
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\bin\Debug\varkeyword.exe
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\bin\Debug\varkeyword.pdb
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\obj\Debug\varkeyword.csproj.AssemblyReference.cache
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\obj\Debug\varkeyword.csproj.CoreCompileInputs.cache
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\obj\Debug\varkeyword.exe
-D:\lap trinh web nang cao\viduchuong2\viduchuong2\var keyword\varkeyword\obj\Debug\varkeyword.pdb
