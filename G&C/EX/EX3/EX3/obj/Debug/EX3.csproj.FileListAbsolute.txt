@@ -1,0 +1,7 @@
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\bin\Debug\EX3.exe.config
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\bin\Debug\EX3.exe
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\bin\Debug\EX3.pdb
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\obj\Debug\EX3.csproj.AssemblyReference.cache
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\obj\Debug\EX3.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\obj\Debug\EX3.exe
+D:\lap trinh web nang cao\bt phan generics$colection\EX\EX3\EX3\obj\Debug\EX3.pdb
