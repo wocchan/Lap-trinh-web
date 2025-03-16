@@ -1,0 +1,16 @@
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.csproj.GenerateResource.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.AssemblyInfoInputs.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.AssemblyInfo.cs
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.ComboBox.resources
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\bin\Debug\net8.0-windows\EX4.exe
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\bin\Debug\net8.0-windows\EX4.deps.json
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\bin\Debug\net8.0-windows\EX4.runtimeconfig.json
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\bin\Debug\net8.0-windows\EX4.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\bin\Debug\net8.0-windows\EX4.pdb
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\refint\EX4.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.pdb
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\EX4.genruntimeconfig.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX4\EX4\obj\Debug\net8.0-windows\ref\EX4.dll
