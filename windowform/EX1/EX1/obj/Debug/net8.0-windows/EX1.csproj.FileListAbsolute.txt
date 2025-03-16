@@ -1,0 +1,16 @@
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\bin\Debug\net8.0-windows\EX1.exe
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\bin\Debug\net8.0-windows\EX1.deps.json
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\bin\Debug\net8.0-windows\EX1.runtimeconfig.json
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\bin\Debug\net8.0-windows\EX1.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\bin\Debug\net8.0-windows\EX1.pdb
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.csproj.GenerateResource.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.AssemblyInfoInputs.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.AssemblyInfo.cs
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.csproj.CoreCompileInputs.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\refint\EX1.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.pdb
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.genruntimeconfig.cache
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\ref\EX1.dll
+D:\lap trinh web nang cao\windowsform\windowform\EX1\EX1\obj\Debug\net8.0-windows\EX1.FormLoad.resources
